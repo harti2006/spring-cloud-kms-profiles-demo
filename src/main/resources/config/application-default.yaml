@@ -1,0 +1,3 @@
+demo:
+  application-default-yaml-loaded: true
+  profile-precedence: "application-default.yaml"
